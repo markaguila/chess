@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\marka\\source\\repos\\Chess\\ChessLogic\\ChessLogic.csproj": {}
+    "C:\\Users\\marka\\Documents\\GitHub\\chess\\ChessLogic\\ChessLogic.csproj": {}
   },
   "projects": {
-    "C:\\Users\\marka\\source\\repos\\Chess\\ChessLogic\\ChessLogic.csproj": {
+    "C:\\Users\\marka\\Documents\\GitHub\\chess\\ChessLogic\\ChessLogic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\marka\\source\\repos\\Chess\\ChessLogic\\ChessLogic.csproj",
+        "projectUniqueName": "C:\\Users\\marka\\Documents\\GitHub\\chess\\ChessLogic\\ChessLogic.csproj",
         "projectName": "ChessLogic",
-        "projectPath": "C:\\Users\\marka\\source\\repos\\Chess\\ChessLogic\\ChessLogic.csproj",
+        "projectPath": "C:\\Users\\marka\\Documents\\GitHub\\chess\\ChessLogic\\ChessLogic.csproj",
         "packagesPath": "C:\\Users\\marka\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\marka\\source\\repos\\Chess\\ChessLogic\\obj\\",
+        "outputPath": "C:\\Users\\marka\\Documents\\GitHub\\chess\\ChessLogic\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

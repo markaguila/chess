@@ -33,11 +33,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\marka\\source\\repos\\Chess\\ChessUI\\ChessUI.csproj",
+      "projectUniqueName": "C:\\Users\\marka\\Documents\\GitHub\\chess\\ChessUI\\ChessUI.csproj",
       "projectName": "ChessUI",
-      "projectPath": "C:\\Users\\marka\\source\\repos\\Chess\\ChessUI\\ChessUI.csproj",
+      "projectPath": "C:\\Users\\marka\\Documents\\GitHub\\chess\\ChessUI\\ChessUI.csproj",
       "packagesPath": "C:\\Users\\marka\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\marka\\source\\repos\\Chess\\ChessUI\\obj\\",
+      "outputPath": "C:\\Users\\marka\\Documents\\GitHub\\chess\\ChessUI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -58,8 +58,8 @@
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
           "projectReferences": {
-            "C:\\Users\\marka\\source\\repos\\Chess\\ChessLogic\\ChessLogic.csproj": {
-              "projectPath": "C:\\Users\\marka\\source\\repos\\Chess\\ChessLogic\\ChessLogic.csproj"
+            "C:\\Users\\marka\\Documents\\GitHub\\chess\\ChessLogic\\ChessLogic.csproj": {
+              "projectPath": "C:\\Users\\marka\\Documents\\GitHub\\chess\\ChessLogic\\ChessLogic.csproj"
             }
           }
         }
