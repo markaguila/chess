@@ -3,36 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\marka\\Documents\\GitHub\\chess\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D076224F-28FE-47C6-84A0-587722905AF6}|ChessLogic\\ChessLogic.csproj|c:\\users\\marka\\documents\\github\\chess\\chesslogic\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D076224F-28FE-47C6-84A0-587722905AF6}|ChessLogic\\ChessLogic.csproj|solutionrelative:chesslogic\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D076224F-28FE-47C6-84A0-587722905AF6}|ChessLogic\\ChessLogic.csproj|c:\\users\\marka\\documents\\github\\chess\\chesslogic\\moves\\move.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D076224F-28FE-47C6-84A0-587722905AF6}|ChessLogic\\ChessLogic.csproj|solutionrelative:chesslogic\\moves\\move.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D076224F-28FE-47C6-84A0-587722905AF6}|ChessLogic\\ChessLogic.csproj|c:\\users\\marka\\documents\\github\\chess\\chesslogic\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D076224F-28FE-47C6-84A0-587722905AF6}|ChessLogic\\ChessLogic.csproj|solutionrelative:chesslogic\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D076224F-28FE-47C6-84A0-587722905AF6}|ChessLogic\\ChessLogic.csproj|c:\\users\\marka\\documents\\github\\chess\\chesslogic\\pieces\\king.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D076224F-28FE-47C6-84A0-587722905AF6}|ChessLogic\\ChessLogic.csproj|solutionrelative:chesslogic\\pieces\\king.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D076224F-28FE-47C6-84A0-587722905AF6}|ChessLogic\\ChessLogic.csproj|c:\\users\\marka\\documents\\github\\chess\\chesslogic\\pieces\\pawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D076224F-28FE-47C6-84A0-587722905AF6}|ChessLogic\\ChessLogic.csproj|solutionrelative:chesslogic\\pieces\\pawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D076224F-28FE-47C6-84A0-587722905AF6}|ChessLogic\\ChessLogic.csproj|c:\\users\\marka\\documents\\github\\chess\\chesslogic\\pieces\\piece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D076224F-28FE-47C6-84A0-587722905AF6}|ChessLogic\\ChessLogic.csproj|solutionrelative:chesslogic\\pieces\\piece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{76762666-B1CB-4A0A-A5E5-6D2032437586}|ChessUI\\ChessUI.csproj|c:\\users\\marka\\documents\\github\\chess\\chessui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{76762666-B1CB-4A0A-A5E5-6D2032437586}|ChessUI\\ChessUI.csproj|solutionrelative:chessui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{76762666-B1CB-4A0A-A5E5-6D2032437586}|ChessUI\\ChessUI.csproj|c:\\users\\marka\\documents\\github\\chess\\chessui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{76762666-B1CB-4A0A-A5E5-6D2032437586}|ChessUI\\ChessUI.csproj|solutionrelative:chessui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76762666-B1CB-4A0A-A5E5-6D2032437586}|ChessUI\\ChessUI.csproj|c:\\users\\marka\\documents\\github\\chess\\chessui\\promotionmenu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76762666-B1CB-4A0A-A5E5-6D2032437586}|ChessUI\\ChessUI.csproj|solutionrelative:chessui\\promotionmenu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76762666-B1CB-4A0A-A5E5-6D2032437586}|ChessUI\\ChessUI.csproj|c:\\users\\marka\\documents\\github\\chess\\chessui\\promotionmenu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{76762666-B1CB-4A0A-A5E5-6D2032437586}|ChessUI\\ChessUI.csproj|solutionrelative:chessui\\promotionmenu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D076224F-28FE-47C6-84A0-587722905AF6}|ChessLogic\\ChessLogic.csproj|c:\\users\\marka\\documents\\github\\chess\\chesslogic\\pieces\\pawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D076224F-28FE-47C6-84A0-587722905AF6}|ChessLogic\\ChessLogic.csproj|solutionrelative:chesslogic\\pieces\\pawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D076224F-28FE-47C6-84A0-587722905AF6}|ChessLogic\\ChessLogic.csproj|c:\\users\\marka\\documents\\github\\chess\\chesslogic\\moves\\pawnpromotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D076224F-28FE-47C6-84A0-587722905AF6}|ChessLogic\\ChessLogic.csproj|solutionrelative:chesslogic\\moves\\pawnpromotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76762666-B1CB-4A0A-A5E5-6D2032437586}|ChessUI\\ChessUI.csproj|c:\\users\\marka\\documents\\github\\chess\\chessui\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{76762666-B1CB-4A0A-A5E5-6D2032437586}|ChessUI\\ChessUI.csproj|solutionrelative:chessui\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,58 +38,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "GameState.cs",
-              "DocumentMoniker": "C:\\Users\\marka\\Documents\\GitHub\\chess\\ChessLogic\\GameState.cs",
-              "RelativeDocumentMoniker": "ChessLogic\\GameState.cs",
-              "ToolTip": "C:\\Users\\marka\\Documents\\GitHub\\chess\\ChessLogic\\GameState.cs",
-              "RelativeToolTip": "ChessLogic\\GameState.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAYwBkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-21T17:49:16.809Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Move.cs",
-              "DocumentMoniker": "C:\\Users\\marka\\Documents\\GitHub\\chess\\ChessLogic\\Moves\\Move.cs",
-              "RelativeDocumentMoniker": "ChessLogic\\Moves\\Move.cs",
-              "ToolTip": "C:\\Users\\marka\\Documents\\GitHub\\chess\\ChessLogic\\Moves\\Move.cs",
-              "RelativeToolTip": "ChessLogic\\Moves\\Move.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-21T17:45:40.51Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Board.cs",
-              "DocumentMoniker": "C:\\Users\\marka\\Documents\\GitHub\\chess\\ChessLogic\\Board.cs",
-              "RelativeDocumentMoniker": "ChessLogic\\Board.cs",
-              "ToolTip": "C:\\Users\\marka\\Documents\\GitHub\\chess\\ChessLogic\\Board.cs",
-              "RelativeToolTip": "ChessLogic\\Board.cs",
-              "ViewState": "AgIAAFAAAAAAAAAAAAAuwHAAAAAAAAAAAAAAAA==",
+              "Title": "PromotionMenu.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\marka\\Documents\\GitHub\\chess\\ChessUI\\PromotionMenu.xaml.cs",
+              "RelativeDocumentMoniker": "ChessUI\\PromotionMenu.xaml.cs",
+              "ToolTip": "C:\\Users\\marka\\Documents\\GitHub\\chess\\ChessUI\\PromotionMenu.xaml.cs",
+              "RelativeToolTip": "ChessUI\\PromotionMenu.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-21T17:19:50.673Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "King.cs",
-              "DocumentMoniker": "C:\\Users\\marka\\Documents\\GitHub\\chess\\ChessLogic\\Pieces\\King.cs",
-              "RelativeDocumentMoniker": "ChessLogic\\Pieces\\King.cs",
-              "ToolTip": "C:\\Users\\marka\\Documents\\GitHub\\chess\\ChessLogic\\Pieces\\King.cs",
-              "RelativeToolTip": "ChessLogic\\Pieces\\King.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAIwEIAAABFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-21T17:03:09.221Z",
+              "WhenOpened": "2026-04-23T13:09:17.282Z",
               "EditorCaption": ""
             },
             {
@@ -104,40 +61,64 @@
               "RelativeDocumentMoniker": "ChessLogic\\Pieces\\Pawn.cs",
               "ToolTip": "C:\\Users\\marka\\Documents\\GitHub\\chess\\ChessLogic\\Pieces\\Pawn.cs",
               "RelativeToolTip": "ChessLogic\\Pieces\\Pawn.cs",
-              "ViewState": "AgIAADgAAAAAAAAAAAAuwE8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAAwGIAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-21T17:01:03.506Z",
+              "WhenOpened": "2026-04-23T12:58:29.919Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Piece.cs",
-              "DocumentMoniker": "C:\\Users\\marka\\Documents\\GitHub\\chess\\ChessLogic\\Pieces\\Piece.cs",
-              "RelativeDocumentMoniker": "ChessLogic\\Pieces\\Piece.cs",
-              "ToolTip": "C:\\Users\\marka\\Documents\\GitHub\\chess\\ChessLogic\\Pieces\\Piece.cs",
-              "RelativeToolTip": "ChessLogic\\Pieces\\Piece.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAmwC4AAAA/AAAAAAAAAA==",
+              "Title": "PawnPromotion.cs",
+              "DocumentMoniker": "C:\\Users\\marka\\Documents\\GitHub\\chess\\ChessLogic\\Moves\\PawnPromotion.cs",
+              "RelativeDocumentMoniker": "ChessLogic\\Moves\\PawnPromotion.cs",
+              "ToolTip": "C:\\Users\\marka\\Documents\\GitHub\\chess\\ChessLogic\\Moves\\PawnPromotion.cs",
+              "RelativeToolTip": "ChessLogic\\Moves\\PawnPromotion.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA7wCQAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-21T16:58:35.831Z",
+              "WhenOpened": "2026-04-23T12:53:07.631Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\marka\\Documents\\GitHub\\chess\\ChessUI\\App.xaml",
+              "RelativeDocumentMoniker": "ChessUI\\App.xaml",
+              "ToolTip": "C:\\Users\\marka\\Documents\\GitHub\\chess\\ChessUI\\App.xaml",
+              "RelativeToolTip": "ChessUI\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-22T15:24:35.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\marka\\Documents\\GitHub\\chess\\ChessUI\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "ChessUI\\MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\marka\\Documents\\GitHub\\chess\\ChessUI\\MainWindow.xaml.cs",
               "RelativeToolTip": "ChessUI\\MainWindow.xaml.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAtwC4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAkwIkAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-17T16:45:58.112Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
+              "Title": "PromotionMenu.xaml",
+              "DocumentMoniker": "C:\\Users\\marka\\Documents\\GitHub\\chess\\ChessUI\\PromotionMenu.xaml",
+              "RelativeDocumentMoniker": "ChessUI\\PromotionMenu.xaml",
+              "ToolTip": "C:\\Users\\marka\\Documents\\GitHub\\chess\\ChessUI\\PromotionMenu.xaml",
+              "RelativeToolTip": "ChessUI\\PromotionMenu.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-23T13:05:16.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\marka\\Documents\\GitHub\\chess\\ChessUI\\MainWindow.xaml",
               "RelativeDocumentMoniker": "ChessUI\\MainWindow.xaml",
